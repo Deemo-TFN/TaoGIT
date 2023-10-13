@@ -1,0 +1,11 @@
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\bin\Debug\bt tuan 4.exe.config
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\bin\Debug\bt tuan 4.exe
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\bin\Debug\bt tuan 4.pdb
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt tuan 4.csproj.AssemblyReference.cache
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt_tuan_4.frmCha.resources
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt_tuan_4.Properties.Resources.resources
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt tuan 4.csproj.GenerateResource.cache
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt tuan 4.csproj.CoreCompileInputs.cache
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt tuan 4.exe
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt tuan 4.pdb
+C:\Users\tranp\source\repos\bt tuan 4\bt tuan 4\obj\Debug\bt_tuan_4.FormCon.resources
